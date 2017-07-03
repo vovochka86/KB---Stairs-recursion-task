@@ -24,6 +24,7 @@ recursively(stairPriceArrInt, function (item, index, collection) {
 });          
 
 	
-console.log ((stairPriceArrInt))
+//console.log ((stairPriceArrInt))
+console.log("Наименьшая стоимость прохода по лестнице:")
 console.log ((stairPriceArrInt[stairPriceArrInt.length-1]))
 
